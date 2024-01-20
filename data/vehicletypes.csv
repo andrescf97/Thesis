@@ -1,0 +1,5 @@
+type_cb;type_consumption;type_cw;type_ft;type_height;type_length;type_mass;type_max_charging_rate;type_name;type_spr;type_width
+0.191;20.6;0.3;0.01;1.530;4.490;1545;1.5;nissan_leaf;0.935;1.788
+0.191;17.2;0.269;0.01;1.562;4.087;1577;1.5;renault_zoe;0.935;1.787
+0.191;14.3;0.3;0.01;1.443;4.694;1684;2.0;tesla_model_3;0.935;1.850
+0.191;22.6;0.3;0.01;1.629;4.901;2445;2.0;audi_etron;0.935;1.935
